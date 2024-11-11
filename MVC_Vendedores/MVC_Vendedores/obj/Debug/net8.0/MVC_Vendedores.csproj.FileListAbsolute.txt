@@ -1,0 +1,14 @@
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Vendedores\MVC_Vendedores\bin\Debug\net8.0\MVC_Vendedores.exe
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Vendedores\MVC_Vendedores\bin\Debug\net8.0\MVC_Vendedores.deps.json
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Vendedores\MVC_Vendedores\bin\Debug\net8.0\MVC_Vendedores.runtimeconfig.json
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Vendedores\MVC_Vendedores\bin\Debug\net8.0\MVC_Vendedores.dll
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Vendedores\MVC_Vendedores\bin\Debug\net8.0\MVC_Vendedores.pdb
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Vendedores\MVC_Vendedores\obj\Debug\net8.0\MVC_Vendedores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Vendedores\MVC_Vendedores\obj\Debug\net8.0\MVC_Vendedores.AssemblyInfoInputs.cache
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Vendedores\MVC_Vendedores\obj\Debug\net8.0\MVC_Vendedores.AssemblyInfo.cs
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Vendedores\MVC_Vendedores\obj\Debug\net8.0\MVC_Vendedores.csproj.CoreCompileInputs.cache
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Vendedores\MVC_Vendedores\obj\Debug\net8.0\MVC_Vendedores.dll
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Vendedores\MVC_Vendedores\obj\Debug\net8.0\refint\MVC_Vendedores.dll
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Vendedores\MVC_Vendedores\obj\Debug\net8.0\MVC_Vendedores.pdb
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Vendedores\MVC_Vendedores\obj\Debug\net8.0\MVC_Vendedores.genruntimeconfig.cache
+C:\Users\Atilio\Documents\Coisas da faculdade\EDD2\MVC_Vendedores\MVC_Vendedores\obj\Debug\net8.0\ref\MVC_Vendedores.dll
