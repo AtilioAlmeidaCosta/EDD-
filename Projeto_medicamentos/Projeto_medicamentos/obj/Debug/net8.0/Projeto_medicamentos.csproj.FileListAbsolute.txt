@@ -1,0 +1,14 @@
+C:\Users\Atilio\source\repos\Projeto_medicamentos\Projeto_medicamentos\bin\Debug\net8.0\Projeto_medicamentos.exe
+C:\Users\Atilio\source\repos\Projeto_medicamentos\Projeto_medicamentos\bin\Debug\net8.0\Projeto_medicamentos.deps.json
+C:\Users\Atilio\source\repos\Projeto_medicamentos\Projeto_medicamentos\bin\Debug\net8.0\Projeto_medicamentos.runtimeconfig.json
+C:\Users\Atilio\source\repos\Projeto_medicamentos\Projeto_medicamentos\bin\Debug\net8.0\Projeto_medicamentos.dll
+C:\Users\Atilio\source\repos\Projeto_medicamentos\Projeto_medicamentos\bin\Debug\net8.0\Projeto_medicamentos.pdb
+C:\Users\Atilio\source\repos\Projeto_medicamentos\Projeto_medicamentos\obj\Debug\net8.0\Projeto_medicamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atilio\source\repos\Projeto_medicamentos\Projeto_medicamentos\obj\Debug\net8.0\Projeto_medicamentos.AssemblyInfoInputs.cache
+C:\Users\Atilio\source\repos\Projeto_medicamentos\Projeto_medicamentos\obj\Debug\net8.0\Projeto_medicamentos.AssemblyInfo.cs
+C:\Users\Atilio\source\repos\Projeto_medicamentos\Projeto_medicamentos\obj\Debug\net8.0\Projeto_medicamentos.csproj.CoreCompileInputs.cache
+C:\Users\Atilio\source\repos\Projeto_medicamentos\Projeto_medicamentos\obj\Debug\net8.0\Projeto_medicamentos.dll
+C:\Users\Atilio\source\repos\Projeto_medicamentos\Projeto_medicamentos\obj\Debug\net8.0\refint\Projeto_medicamentos.dll
+C:\Users\Atilio\source\repos\Projeto_medicamentos\Projeto_medicamentos\obj\Debug\net8.0\Projeto_medicamentos.pdb
+C:\Users\Atilio\source\repos\Projeto_medicamentos\Projeto_medicamentos\obj\Debug\net8.0\Projeto_medicamentos.genruntimeconfig.cache
+C:\Users\Atilio\source\repos\Projeto_medicamentos\Projeto_medicamentos\obj\Debug\net8.0\ref\Projeto_medicamentos.dll
