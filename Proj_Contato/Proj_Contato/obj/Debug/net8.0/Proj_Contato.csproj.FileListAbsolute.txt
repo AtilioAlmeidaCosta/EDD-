@@ -1,0 +1,14 @@
+C:\Users\Atilio\source\repos\Proj_Contato\Proj_Contato\obj\Debug\net8.0\Proj_Contato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atilio\source\repos\Proj_Contato\Proj_Contato\obj\Debug\net8.0\Proj_Contato.AssemblyInfoInputs.cache
+C:\Users\Atilio\source\repos\Proj_Contato\Proj_Contato\obj\Debug\net8.0\Proj_Contato.AssemblyInfo.cs
+C:\Users\Atilio\source\repos\Proj_Contato\Proj_Contato\obj\Debug\net8.0\Proj_Contato.csproj.CoreCompileInputs.cache
+C:\Users\Atilio\source\repos\Proj_Contato\Proj_Contato\bin\Debug\net8.0\Proj_Contato.exe
+C:\Users\Atilio\source\repos\Proj_Contato\Proj_Contato\bin\Debug\net8.0\Proj_Contato.deps.json
+C:\Users\Atilio\source\repos\Proj_Contato\Proj_Contato\bin\Debug\net8.0\Proj_Contato.runtimeconfig.json
+C:\Users\Atilio\source\repos\Proj_Contato\Proj_Contato\bin\Debug\net8.0\Proj_Contato.dll
+C:\Users\Atilio\source\repos\Proj_Contato\Proj_Contato\bin\Debug\net8.0\Proj_Contato.pdb
+C:\Users\Atilio\source\repos\Proj_Contato\Proj_Contato\obj\Debug\net8.0\Proj_Contato.dll
+C:\Users\Atilio\source\repos\Proj_Contato\Proj_Contato\obj\Debug\net8.0\refint\Proj_Contato.dll
+C:\Users\Atilio\source\repos\Proj_Contato\Proj_Contato\obj\Debug\net8.0\Proj_Contato.pdb
+C:\Users\Atilio\source\repos\Proj_Contato\Proj_Contato\obj\Debug\net8.0\Proj_Contato.genruntimeconfig.cache
+C:\Users\Atilio\source\repos\Proj_Contato\Proj_Contato\obj\Debug\net8.0\ref\Proj_Contato.dll
